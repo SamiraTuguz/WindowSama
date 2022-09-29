@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
 D:\IS-33\SamiraTuguz\WindowSama\App.xaml
-2221563404
+5-1036737127
 
-5354575417
+101939396202
 193-1891726104
-View\AuthorizationWindow.xaml;View\DashboardWindow.xaml;
+View\AdminWindow.xaml;View\AuthorizationWindow.xaml;View\ClientWindow.xaml;View\DashboardWindow.xaml;View\ManagerWindow.xaml;
 
 False
 

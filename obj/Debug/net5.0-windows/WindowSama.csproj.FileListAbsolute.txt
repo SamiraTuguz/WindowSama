@@ -22,3 +22,9 @@ D:\IS-33\SamiraTuguz\WindowSama\obj\Debug\net5.0-windows\WindowSama.dll
 D:\IS-33\SamiraTuguz\WindowSama\obj\Debug\net5.0-windows\ref\WindowSama.dll
 D:\IS-33\SamiraTuguz\WindowSama\obj\Debug\net5.0-windows\WindowSama.pdb
 D:\IS-33\SamiraTuguz\WindowSama\obj\Debug\net5.0-windows\WindowSama.genruntimeconfig.cache
+D:\IS-33\SamiraTuguz\WindowSama\obj\Debug\net5.0-windows\View\AdminWindow.g.cs
+D:\IS-33\SamiraTuguz\WindowSama\obj\Debug\net5.0-windows\View\ClientWindow.g.cs
+D:\IS-33\SamiraTuguz\WindowSama\obj\Debug\net5.0-windows\View\ManagerWindow.g.cs
+D:\IS-33\SamiraTuguz\WindowSama\obj\Debug\net5.0-windows\View\AdminWindow.baml
+D:\IS-33\SamiraTuguz\WindowSama\obj\Debug\net5.0-windows\View\ClientWindow.baml
+D:\IS-33\SamiraTuguz\WindowSama\obj\Debug\net5.0-windows\View\ManagerWindow.baml

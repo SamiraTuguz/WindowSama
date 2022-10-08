@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WindowSama.Core
 {
-    class User
+    public class User
     {
         public int Id { get; set; }
         public string FirstName { get; set; }

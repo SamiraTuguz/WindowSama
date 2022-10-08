@@ -10,18 +10,21 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
 using System.Windows.Shapes;
+using WindowAuthorization.View;
 
 namespace WindowSama.View
 {
     /// <summary>
-    /// Логика взаимодействия для ManagerWindow.xaml
+    /// Логика взаимодействия для UsersPage.xaml
     /// </summary>
-    public partial class ManagerWindow : Window
+    public partial class UsersPage : Page
     {
-        public ManagerWindow()
+        public UsersPage()
         {
             InitializeComponent();
+            dgUsers.ItemsSource = AuthorizationWindow.userList;
         }
     }
 }

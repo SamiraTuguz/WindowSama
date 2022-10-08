@@ -9,6 +9,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using WindowSama.View;
 
 namespace WindowAuthorization.View
 {
@@ -20,6 +21,21 @@ namespace WindowAuthorization.View
         public DashboardWindow()
         {
             InitializeComponent();
+        }
+
+        private void btnUsersPage_Click(object sender, RoutedEventArgs e)
+        {
+            mainFrame.Navigate(new UsersPage());
+        }
+
+        private void btnManagerPage_Click(object sender, RoutedEventArgs e)
+        {
+            mainFrame.Navigate(new Page1());
+        }
+
+        private void btnAdminPage_Click(object sender, RoutedEventArgs e)
+        {
+            mainFrame.Navigate(new Page2());
         }
     }
 }

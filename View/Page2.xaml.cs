@@ -10,16 +10,17 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace WindowSama.View
 {
     /// <summary>
-    /// Логика взаимодействия для ClientWindow.xaml
+    /// Логика взаимодействия для Page2.xaml
     /// </summary>
-    public partial class ClientWindow : Window
+    public partial class Page2 : Page
     {
-        public ClientWindow()
+        public Page2()
         {
             InitializeComponent();
         }

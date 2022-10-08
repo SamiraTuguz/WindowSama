@@ -21,26 +21,20 @@ namespace WindowAuthorization.View
     /// </summary>
     public partial class AuthorizationWindow : Window
     {
-        private List<User> _userList; 
+        public static List<User> userList; 
         public AuthorizationWindow()
         {
             InitializeComponent();
-            _userList = UserParser.Parse("users3.txt").ToList();
+            userList = UserParser.Parse("users3.txt").ToList();
         }
 
         private void btnSignIn_Click(object sender, RoutedEventArgs e)
         {
             UserValidator userValidator = new UserValidator();
-            if (userValidator.ValidateLoginAndPassword(_userList, tbLogin.Text, tbPassword.Text))
+            if (userValidator.ValidateLoginAndPassword(userList, tbLogin.Text, tbPassword.Text))
             {
-                if (userValidator.ValidateRole(userValidator.CurrentUser) == 1)
-                    new ClientWindow().Show();
-                else if (userValidator.ValidateRole(userValidator.CurrentUser) == 2)
-                    new AdminWindow().Show();
-                else if (userValidator.ValidateRole(userValidator.CurrentUser) == 3)
-                    new ManagerWindow().Show();
-                else if (userValidator.ValidateRole(userValidator.CurrentUser) == 0)
-                    MessageBox.Show("Ошибка");
+                new DashboardWindow().Show();
+                Close();
             }
 
             else MessageBox.Show("Неверный логин или пароль");

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Natalia\\source\\repos\\SamiraTuguz\\WindowSama\\WindowSama.csproj": {}
+    "C:\\Users\\Natalia\\Source\\Repos\\SamiraTuguz\\WindowSama\\WindowSama.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Natalia\\source\\repos\\SamiraTuguz\\WindowSama\\WindowSama.csproj": {
+    "C:\\Users\\Natalia\\Source\\Repos\\SamiraTuguz\\WindowSama\\WindowSama.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Natalia\\source\\repos\\SamiraTuguz\\WindowSama\\WindowSama.csproj",
+        "projectUniqueName": "C:\\Users\\Natalia\\Source\\Repos\\SamiraTuguz\\WindowSama\\WindowSama.csproj",
         "projectName": "WindowSama",
-        "projectPath": "C:\\Users\\Natalia\\source\\repos\\SamiraTuguz\\WindowSama\\WindowSama.csproj",
+        "projectPath": "C:\\Users\\Natalia\\Source\\Repos\\SamiraTuguz\\WindowSama\\WindowSama.csproj",
         "packagesPath": "C:\\Users\\Natalia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Natalia\\source\\repos\\SamiraTuguz\\WindowSama\\obj\\",
+        "outputPath": "C:\\Users\\Natalia\\Source\\Repos\\SamiraTuguz\\WindowSama\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

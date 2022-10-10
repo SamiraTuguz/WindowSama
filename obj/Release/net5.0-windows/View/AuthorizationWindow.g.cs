@@ -77,7 +77,7 @@ namespace WindowAuthorization.View {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WindowSama_2h1teqfz_wpftmp;component/view/authorizationwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WindowSama;component/view/authorizationwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\View\AuthorizationWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -19,6 +19,6 @@
             <TextBlock Text="Пароль" Foreground="Blue"/>
             <TextBox x:Name="tbPassword"/>
         </StackPanel>
-        <Button x:Name="btnSignIn" Content="Войти" Grid.Row="2" Margin="10" Click="btnSignIn_Click" Background="Blue" Foreground="White"/>
+        <Button x:Name="btnSignIn" Content="Войти" Grid.Row="2"  Click="btnSignIn_Click"  Foreground="White"/>
     </Grid>
 </Window>

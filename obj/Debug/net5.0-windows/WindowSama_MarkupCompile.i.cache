@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Natalia\source\repos\SamiraTuguz\WindowSama\obj\Debug\net5.0-windows\
+C:\Users\Natalia\Source\Repos\SamiraTuguz\WindowSama\obj\Debug\net5.0-windows\
 WindowSama
 none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
-C:\Users\Natalia\source\repos\SamiraTuguz\WindowSama\App.xaml
-51679313969
+C:\Users\Natalia\Source\Repos\SamiraTuguz\WindowSama\App.xaml
+71433959842
 
 121846428625
 193-1891726104
-View\AuthorizationWindow.xaml;View\DashboardWindow.xaml;View\Page1.xaml;View\Page2.xaml;View\UsersPage.xaml;
+Assets\ResourcesDictionary\ColorDictionary.xaml;Assets\ResourcesDictionary\StyleDictionary.xaml;View\AuthorizationWindow.xaml;View\DashboardWindow.xaml;View\Page1.xaml;View\Page2.xaml;View\UsersPage.xaml;
 
 True
 

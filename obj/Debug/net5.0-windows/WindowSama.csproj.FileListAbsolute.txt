@@ -58,3 +58,6 @@ C:\Users\Natalia\Source\Repos\SamiraTuguz\WindowSama\obj\Debug\net5.0-windows\Wi
 C:\Users\Natalia\Source\Repos\SamiraTuguz\WindowSama\obj\Debug\net5.0-windows\ref\WindowSama.dll
 C:\Users\Natalia\Source\Repos\SamiraTuguz\WindowSama\obj\Debug\net5.0-windows\WindowSama.pdb
 C:\Users\Natalia\Source\Repos\SamiraTuguz\WindowSama\obj\Debug\net5.0-windows\WindowSama.genruntimeconfig.cache
+C:\Users\Natalia\Source\Repos\SamiraTuguz\WindowSama\obj\Debug\net5.0-windows\Assets\ResourcesDictionary\ColorDictionary.baml
+C:\Users\Natalia\Source\Repos\SamiraTuguz\WindowSama\obj\Debug\net5.0-windows\Assets\ResourcesDictionary\StyleDictionary.baml
+C:\Users\Natalia\Source\Repos\SamiraTuguz\WindowSama\obj\Debug\net5.0-windows\App.baml

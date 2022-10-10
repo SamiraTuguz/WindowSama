@@ -61,7 +61,7 @@ namespace WindowSama.View {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WindowSama_2h1teqfz_wpftmp;component/view/userspage.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WindowSama;component/view/userspage.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\View\UsersPage.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

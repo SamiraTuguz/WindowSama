@@ -20,7 +20,8 @@
                 Click="btnManagerPage_Click"/>
             <Button x:Name="btnAdminPage"
                 Content="Admin"
-                Click="btnAdminPage_Click"/>
+                Click="btnAdminPage_Click">
+            </Button>
         </StackPanel>
         <Frame x:Name="mainFrame" Grid.Column="1"/>
     </Grid>
